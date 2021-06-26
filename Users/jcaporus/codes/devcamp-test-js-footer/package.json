@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-test-js-footer",
+  "version": "0.1.0",
+  "description": "module allows for a dynamic footer to be generated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcaporus/devcamp-test-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Cappy <jcaporus@amazon.com> (http://www.cappyscomics.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcaporus/devcamp-test-js-footer/issues"
+  },
+  "homepage": "https://github.com/jcaporus/devcamp-test-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
